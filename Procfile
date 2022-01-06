@@ -1,1 +1,1 @@
-worker: java -jar out/artifacts/CSBot_jar
+worker: java -jar out/artifacts/CSBot.jar
